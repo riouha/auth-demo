@@ -1,0 +1,29 @@
+{
+  "Each":"هر مقدار در ",
+  "IsNotEmpty": "{property} نمیتواند خالی باشد",
+
+  "IsString": "{property} باید از نوع رشته باشد",
+  "IsEmail": "ایمیل نادرست است",
+  "Matches":"{property} را مطابق فرمت صحیح وارد نمایید",
+  "MinLength": "{property} باید حداقل {constraints.0} کاراکتر طول داشته باشد",
+  "MaxLength": "{property} باید حداکثر {constraints.0} کاراکتر طول داشته باشد",
+  "Length": "{property} باید حداقل {constraints.0} و حداکثر {constraints.1} کاراکتر طول داشته باشد",
+  "IsIn": "{property} باید یکی از مقادیر {constraints.0} باشد",
+  "IsPhoneNumber":"{property} را در فرمت صحیح وارد نمایید",
+  "IsNumberString":"{property} باید از نوع عددی در قالب رشته باشد",
+  "IsJWT":"{property} باید یک jwt توکن باشد",
+  "IsNationalCode":"کدملی را در فرمت درست وارد کنید",
+  "IsMobile":"شماره موبایل را در فرمت درست وارد کنید",
+
+  "IsNumber": "{property} باید از نوع عددی باشد",
+  "IsInt": "{property} باید از نوع عدد صحیح باشد",
+  "IsPositive": "{property} باید مثبت باشد",
+  "Min": "{property} باید حداقل {constraints.0} باشد",
+  "Max": "{property} باید حداکثر {constraints.0} باشد",
+
+  "IsBoolean": "{property} باید از نوع بولین باشد",
+
+  "IsArray": "{property} باید از نوع ارایه باشد",
+  "ArrayMaxSize": "{property} باید آرایه ای با ماکزیمم سایز {constraints.0} باشد",
+  "ArrayMinSize": "{property} باید آرایه ای با مینیمم سایز {constraints.0} باشد"
+}

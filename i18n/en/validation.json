@@ -1,0 +1,18 @@
+{
+  "Each": "each value in ",
+  "IsNotEmpty": "{property} cannot be empty",
+
+  "IsString":"{property} must be a string",
+  "IsEmail": "email is invalid",
+  "IsNationalCode":"invalid nationalCode",
+  "IsMobile":"invalid phone",
+
+  "IsNumber": "{property} must be anumber",
+  "IsInt": "{property} must be an integer",
+  "IsIn": "{property} must be one of {constraints.0}",
+  "IsPositive": "{property} must be a positive number",
+  "Min": "{property} must be atleast {constraints.0}",
+  "Max": "{property} must be maximum {constraints.0}",
+
+  "IsBoolean": "{property} must be a boolean"
+}
